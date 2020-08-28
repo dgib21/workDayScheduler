@@ -15,7 +15,7 @@ SO THAT I can manage my time effectively
 
 
 # My Finished Product
-Here is the [Deployed Application Link](https://dgib21.github.io/javascriptQuiz/) for my assignment. 
+Here is the [Deployed Application Link](https://dgib21.github.io/workDayScheduler/) for my assignment. 
 
 
 
