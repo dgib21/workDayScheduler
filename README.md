@@ -18,4 +18,5 @@ SO THAT I can manage my time effectively
 Here is the [Deployed Application Link](https://dgib21.github.io/workDayScheduler/) for my assignment. 
 
 
+![Alt text](./assets/images/deployedPic.png?raw=true "Picture of Deployed App")
 

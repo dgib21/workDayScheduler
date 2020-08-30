@@ -109,3 +109,12 @@ $(".saveButton17").on("click", function(){
 })
 
 $("#seventeenText").val(localStorage.getItem("timeblockSeventeen"));
+
+var topOfHour = moment().startOf('hour');
+console.log(topOfHour)
+var tblock = document.querySelectorAll(".row")
+console.log(tblock); 
+
+//var colorNineTextArea = document.getElementById("timeblock-nine").style.color = "#ff0000";
+
+//colorNineTextArea.addClass("past"); 
